@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A827AA5-6C7A-43BF-8681-B51902E6C603"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F4D6648-139E-4FC1-9F83-728E78477E48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yelpy/Controllers/RestaurantsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB22DAE9-89B1-4738-809C-22D832704AA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yelpy/Controllers/RestaurantsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "RestaurantsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EB22DAE9-89B1-4738-809C-22D832704AA9 - 8814a89ea4a2c1a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yelpy.RestaurantsViewController.__deallocating_deinit"
+                  moduleName = "Yelpy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minasedhom/Desktop/yelpy_starter_1/Yelpy/Controllers/RestaurantsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EB22DAE9-89B1-4738-809C-22D832704AA9 - d02a8e4979928370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yelpy.RestaurantsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yelpy.RestaurantsViewController"
+                  moduleName = "Yelpy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minasedhom/Desktop/yelpy_starter_1/Yelpy/Controllers/RestaurantsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EB22DAE9-89B1-4738-809C-22D832704AA9 - 23e60a1d11fb754b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yelpy.RestaurantsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yelpy.RestaurantsViewController"
+                  moduleName = "Yelpy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minasedhom/Desktop/yelpy_starter_1/Yelpy/Controllers/RestaurantsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "EB22DAE9-89B1-4738-809C-22D832704AA9 - 2e155b9081bd63a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yelpy.RestaurantsViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yelpy.RestaurantsViewController&gt;"
+                  moduleName = "Yelpy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minasedhom/Desktop/yelpy_starter_1/Yelpy/Controllers/RestaurantsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EB22DAE9-89B1-4738-809C-22D832704AA9 - da81c3f88ca18e50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yelpy.RestaurantsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yelpy.RestaurantsViewController&gt;"
+                  moduleName = "Yelpy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minasedhom/Desktop/yelpy_starter_1/Yelpy/Controllers/RestaurantsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
